@@ -1,0 +1,16 @@
+{
+    "name": "eugeniy/tiktokclient",
+    "type": "project",
+    "minimum-stability" : "stable",
+    "require": {
+        "jviba/tiktokapiclient": "dev-master"
+    },
+    "require-dev": {
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:djvibegga/tiktokclient.git"
+        }
+    ]
+}
